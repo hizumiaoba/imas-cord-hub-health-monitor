@@ -1,7 +1,7 @@
-url: https://imas-cord-hub-backend-api.vercel.app/api/
-status: down
-code: 404
-responseTime: 106
-lastUpdated: 2024-01-01T05:21:25.779Z
+url: https://imas-cord-hub-backend-api.vercel.app/api/health
+status: up
+code: 200
+responseTime: 855
+lastUpdated: 2024-01-01T05:24:13.808Z
 startTime: 2024-01-01T05:21:25.656Z
 generator: Upptime <https://github.com/upptime/upptime>
