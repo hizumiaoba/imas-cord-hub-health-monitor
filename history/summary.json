@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/imas-cord-hub-backend-api.vercel.app.ico",
     "slug": "backend-api-service",
     "status": "up",
-    "uptime": "1.37%",
-    "uptimeDay": "1.37%",
-    "uptimeWeek": "1.37%",
-    "uptimeMonth": "1.37%",
-    "uptimeYear": "1.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 481,
     "timeDay": 481,
     "timeWeek": 481,
     "timeMonth": 481,
     "timeYear": 481,
-    "dailyMinutesDown": {
-      "2024-01-01": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
