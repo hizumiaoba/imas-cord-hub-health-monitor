@@ -6,7 +6,7 @@ sites:
   - name: Main Frontend Service
     url: https://imas-cord-hub.vercel.app/
   - name: Backend API Service
-    url: https://imas-cord-hub-backend-api.vercel.app/api/
+    url: https://imas-cord-hub-backend-api.vercel.app/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
