@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 254,
-    "timeWeek": 157,
+    "time": 149,
+    "timeDay": 54,
+    "timeWeek": 135,
     "timeMonth": 137,
-    "timeYear": 144,
-    "dailyMinutesDown": {
-      "2024-01-17": 20
-    }
+    "timeYear": 143,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backend API Service",
@@ -31,12 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 574,
-    "timeWeek": 610,
-    "timeMonth": 519,
+    "timeDay": 536,
+    "timeWeek": 605,
+    "timeMonth": 521,
     "timeYear": 552,
-    "dailyMinutesDown": {
-      "2024-01-17": 20
-    }
+    "dailyMinutesDown": {}
   }
 ]
