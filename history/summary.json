@@ -4,19 +4,19 @@
     "url": "https://imas-cord-hub.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/imas-cord-hub.vercel.app.ico",
     "slug": "main-frontend-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 136,
-    "timeDay": 400,
-    "timeWeek": 192,
+    "timeDay": 287,
+    "timeWeek": 190,
     "timeMonth": 181,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-07": 0,
+      "2025-08-07": 21,
       "2025-04-03": 34
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://imas-cord-hub-backend-api.vercel.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/imas-cord-hub-backend-api.vercel.app.ico",
     "slug": "backend-api-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 178,
-    "timeWeek": 508,
-    "timeMonth": 589,
-    "timeYear": 560,
+    "timeDay": 447,
+    "timeWeek": 534,
+    "timeMonth": 593,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 21
     }
   }
 ]
