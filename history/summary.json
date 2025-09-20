@@ -4,7 +4,7 @@
     "url": "https://imas-cord-hub.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/imas-cord-hub.vercel.app.ico",
     "slug": "main-frontend-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 149,
     "timeYear": 144,
     "dailyMinutesDown": {
+      "2025-09-20": 0,
       "2025-09-04": 59,
       "2025-09-01": 20,
       "2025-08-29": 82,
@@ -30,7 +31,7 @@
     "url": "https://imas-cord-hub-backend-api.vercel.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/imas-cord-hub-backend-api.vercel.app.ico",
     "slug": "backend-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +43,7 @@
     "timeMonth": 557,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2025-09-20": 0,
       "2025-09-04": 59,
       "2025-09-01": 20,
       "2025-08-29": 80,
