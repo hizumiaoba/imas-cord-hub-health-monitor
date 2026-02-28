@@ -16,6 +16,7 @@
     "timeMonth": 152,
     "timeYear": 160,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2026-02-22": 36,
       "2026-01-04": 105,
       "2025-12-26": 23,
@@ -36,9 +37,9 @@
     "url": "https://imas-cord-hub-backend-api.vercel.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/imas-cord-hub-backend-api.vercel.app.ico",
     "slug": "backend-api-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.87%",
@@ -48,6 +49,7 @@
     "timeMonth": 621,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2026-02-22": 36,
       "2026-01-04": 105,
       "2025-12-26": 23,
